@@ -18,9 +18,12 @@ Web
 JPA
 H2
 Security
+
 Essas dependências são essenciais para a implementação do backend e permitem que o projeto seja executado sem problemas.
 
+
 Executando o projeto
+
 Para executar o projeto, siga os passos abaixo:
 
 Clone o repositório do projeto em sua máquina local.
